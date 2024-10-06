@@ -10,5 +10,5 @@
  - The tool will then copy the specified data range and paste it into either a new sheet or a new workbook, depending on the selected option.
 
 ![alt text](UserFormButton.png)
-<img src="CopyAndTest Range\UserForm.png" width=100>
+
 ![alt text](UserForm.png)
