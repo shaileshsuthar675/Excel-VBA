@@ -1,0 +1,14 @@
+{
+    "app_name": "XVBA",
+    "description": "",
+    "author": "",
+    "email": "",
+    "create_ate": "Thu Dec 28 2023 22:21:44 GMT+0530 (India Standard Time)",
+    "excel_file": "CopyAndPasteAsValue.xlsm",
+    "vba_folder": "vba-files",
+    "ribbon_file": "customUI14",
+    "ribbon_folder": "ribbons",
+    "logs": "on",
+    "xvba_packages": {},
+    "xvba_dev_packages": {}
+}
