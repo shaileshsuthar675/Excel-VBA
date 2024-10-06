@@ -9,5 +9,10 @@
  - Enter the required information into the form.
  - The tool will then copy the specified data range and paste it into either a new sheet or a new workbook, depending on the selected option.
 
-![alt text](UserFormButton.png)
-![alt text](UserForm.png)
+**UserForm Section at Home Tab:**
+ 
+  ![alt text](UserFormButton.png)
+
+**User Form View:**
+
+  ![alt text](UserForm.png)
